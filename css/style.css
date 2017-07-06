@@ -20,6 +20,11 @@ h1 {
 }
 
 
+.btn-large {
+    margin:10px 10px 10px 10px;
+}
+
+
 #content {
     position: fixed;
     text-align: center;
