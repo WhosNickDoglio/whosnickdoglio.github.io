@@ -1,10 +1,8 @@
-
 #background {
     position: fixed;
     left: 0;
     right: 0;
     z-index: 1;
-    
     background-size: cover;
     display: block;
     filter: blur(10px);
@@ -14,16 +12,13 @@
     -ms-filter: filter(10px);
 }
 
-
 h1 {
     color: white;
 }
 
-
 .btn-large {
-    margin:10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
 }
-
 
 #content {
     position: fixed;
@@ -36,5 +31,3 @@ h1 {
     width: 50%;
     height: 50%;
 }
-
-
