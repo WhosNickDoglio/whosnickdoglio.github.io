@@ -1,33 +1,33 @@
 #background {
-    position: fixed;
-    left: 0;
-    right: 0;
-    z-index: 1;
-    background-size: cover;
-    display: block;
-    filter: blur(10px);
-    -webkit-filter: blur(10px);
-    -moz-filter: filter(10px);
-    -o-filter: filter(10px);
-    -ms-filter: filter(10px);
+	position: fixed;
+	left: 0;
+	right: 0;
+	z-index: 1;
+	background-size: cover;
+	display: block;
+	filter: blur(10px);
+	-webkit-filter: blur(10px);
+	-moz-filter: filter(10px);
+	-o-filter: filter(10px);
+	-ms-filter: filter(10px);
 }
 
 h1 {
-    color: white;
+	color: white;
 }
 
 .btn-large {
-    margin: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
 }
 
 #content {
-    position: fixed;
-    text-align: center;
-    left: 0;
-    right: 0;
-    z-index: 9999;
-    margin: auto;
-    top: 30%;
-    width: 50%;
-    height: 50%;
+	position: fixed;
+	text-align: center;
+	left: 0;
+	right: 0;
+	z-index: 9999;
+	margin: auto;
+	top: 15%;
+	width: 75%;
+	height: 100%;
 }
