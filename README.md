@@ -1,4 +1,4 @@
-# whosnickdoglio.github.io
+# whosnickdoglio.dev/
 
 Small homepage/landing page for profile links. 
 
