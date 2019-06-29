@@ -1,4 +1,4 @@
-# whosnickdoglio.dev/
+# whosnickdoglio.dev
 
 Small homepage/landing page for profile links. 
 
