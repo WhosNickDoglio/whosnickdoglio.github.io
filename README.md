@@ -2,7 +2,6 @@
 
 Small homepage/landing page for profile links. 
 
-<img src="https://i.imgur.com/UkP9Aeh.png">
 
 
 # License
