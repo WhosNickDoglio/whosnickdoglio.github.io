@@ -52,8 +52,9 @@ pygmentsStyle = "native"
     # Optional: add a twitter handle and mastodon handle for SEO.
     [params.twitter]
         name = "@WhosNickDoglio"
-    # [params.mastodon]
-        # name = "@WhosNickDoglio"
+    [params.mastodon]
+        name = "@WhosNickDoglio"
+        host = "androiddev.social"
 
 
 # Sitemap location (default is /sitemap.xml)
