@@ -31,10 +31,12 @@ pygmentsStyle = "native"
 
 # Configure main navbar links. They can have a weight to select the order.
 
+
+
 [[menu.main]]
-    # name = "About"
-    # url = "/about/"
-    # weight = -110
+    name = "Projects"
+    url = "/projects/"
+    weight = -150
     
 # Site wide params and SEO
 [params]
