@@ -1,0 +1,46 @@
+# pip install mkdocs mkdocs-material
+# mkdocs serve
+# mkdocs gh-deploy
+
+site_name: WhosNickDoglio
+repo_url: https://github.com/WhosNickDoglio/whosnickdoglio.github.io
+site_author: WhosNickDoglio
+remote_branch: gh-pages
+
+copyright: 'Copyright &copy; 2023 Nicholas Doglio'
+
+theme:
+  name: 'material'
+  palette:
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: 'white'
+      accent: 'green'
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: 'black'
+      accent: 'green'
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: 'Lato'
+    code: 'Fira Code'
+
+nav:
+  - 'About': index.md
+  - 'Projects': projects.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/WhosNickDoglio/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nicholasdoglio/
+    - icon: fontawesome/brands/mastodon
+      link: https://androiddev.social/@WhosNickDoglio
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/WhosNickDoglio

@@ -1,0 +1,1 @@
+- [Dagger Rules: Static analysis checks for using Dagger, Anvil, or Hilt](https://whosnickdoglio.dev/dagger-rules/).  
